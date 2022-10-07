@@ -1,6 +1,6 @@
 #!/bin/bash
 #This randomly generate attendance
-	echo "Attendance Report $(date +%F)"
+	echo "Attendance Report for $(date +%F)"
 
 for STUDENT in Josh Vanessa Victor Scott Hadeel Jaime Glen Archer
 do
